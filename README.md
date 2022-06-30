@@ -4,14 +4,14 @@
 O APLIKACIJI
 ------------
 
-**BiH Freelancers Generator** je aplikacija koja je osmišljena sa ciljem olakšavanja procedure plačanja poreza na dohodak za sve freelancere unutar Bosne i Hercegovine. Kroz maximalno jednostavan sistem, aplikacija će omogučiti korisniku da kroz nekoliko jednostavnih koraka doda prihod nakon čega korisnik dobija mogučnost pregleda rashoda na taj dohodak, generisan obrazac, primjerke uplatnica itd. (Više o radu aplikacije u nastavku).
+**BiH Freelancers Generator** je aplikacija osmišljena da olakša proceduru plaćanja poreza na dohodak svim freelancerima u Bosni i Hercegovini. Kroz najjednostavniji sistem, aplikacija će omogućiti korisniku dodavanje prihoda u nekoliko jednostavnih koraka nakon čega korisnik dobija priliku da vidi rashode na tom prihodu, generirani obrazac, kopije uplatnica itd. (Više o aplikaciji u nastavku ).
 
 <br>
 
 UPRAVLJANJE PODACIMA
 --------------------
 
-Kako bi aplikacija funkcionisala i koristila svrsi kojoj je namjenjena, obavezan je unos podataka korisnika pri prvom pokretanju aplikacije. Podaci koje će aplikacija zahtijevati od korisnika su:
+Kako bi aplikacija funkcionisala i koristila namjenu za koju je namijenjena, prilikom prvog pokretanja aplikacije obavezno je unijeti korisničke podatke. Podaci koje će aplikacija zahtijevati od korisnika su:
 
 1. Ime i prezime
 2. Adresa stanovanja
@@ -19,7 +19,7 @@ Kako bi aplikacija funkcionisala i koristila svrsi kojoj je namjenjena, obavezan
 4. Broj telefona
 5. Kanton i općina stanovanja
 
-Ono što ovaj sistem čini bezbjednim za korištenje jeste da aplikacija sve ove podatke čuva isključivo na memoriji uređaja i te podatke nikada neće dijeliti sa bilo kim drugim, čak ni sa vlasnikom aplikacije. Kao dokaz tome se može uzeti to da će aplikacija potpuno isto raditi online i offline (Sa i bez pristupa internetu). Fokus na rad aplikacije offline je zbog moguće potrebe nekih podataka koje aplikacija skladišti u trenutku kada korisnik nema pristup internetu.  
+Ono što ovaj sistem čini sigurnim za korištenje je to što aplikacija sve te podatke pohranjuje isključivo u memoriju uređaja i nikada te podatke neće dijeliti ni sa kim drugim, čak ni s vlasnikom aplikacije. Kao dokaz za to može se uzeti da će aplikacija raditi potpuno isto online i offline (sa i bez pristupa internetu). Fokus na pokretanju aplikacije van mreže je zbog moguće potrebe za nekim podacima koje aplikacija pohranjuje u trenutku kada korisnik nema pristup Internetu.  
 
 <br>
 
@@ -30,22 +30,22 @@ SEKCIJE
 
 <br>
 
-Aplikacija je podijeljena u 5 sekcija kako bi sve bilo potpuno pregledno i jednostavno za korištenje.
+Aplikacija je podijeljena u 5 dijelova kako bi sve bilo potpuno jasno i jednostavno za korištenje.
 
 **POČETNA**
-- *Početna stranica je ekran sa fokusom na kompletan iznos svih dohodaka koje je korisnik dodao za tekući mjesec, te listom isti'.*
+- *Početna stranica je ekran sa fokusom na kompletan iznos svih prihoda koje je korisnik dodao za tekući mjesec, te lista istih '.*
 
 **KLIJENTI**
-- *Ekran na kojem će biti prikazani svi prethodno spremljeni klijenti. Na istom je također moguće uređivati informacije nekog klijenta (Naziv, adressa, država) sa liste ili izbrisati istog.*
+- *Ekran koji će prikazati sve prethodno sačuvane klijente. Takođe je moguće uređivati podatke o klijentu (ime, adresa, država) sa liste ili ih izbrisati.*
 
 **STATISTIKA**
-- *U sekciji statistika, korisnik ima mogučnost vidjeti ukupan prihod/rashod za bilo koji mjesec, tekući ili neki od prethodni. Također je na ovom ekranu prikazan ukupan prihod BEZ ODBITAKA i ukupan prihod SA ODBICIMA, kao i tacan iznos rashoda podijeljen na POREZ i ZDRAVSTVENO OSIGURANJE*
+- *U sekciji statistike korisnik ima mogućnost da vidi ukupne prihode/rashode za bilo koji mjesec, tekući ili bilo koji od prethodnih. Na ovom ekranu se također prikazuju ukupni prihodi BEZ ODBITKA i ukupni prihodi SA ODBICIMA, kao i tačan iznos rashoda podijeljen na POREZ i ZDRAVSTVENO OSIGURANJE*
 
 **ARHIVA**
-- *Arhiva je ekran koji korisniku omogučava potpuni pregled svih dohodaka dodanih kroz aplikaciju. Također svaki dohodak sadrži detaljni pregled koji omogučava korisniku da detaljno pregleda ukupan primljeni iznos, ukupan prihod sa odbicima, sredstva izdvojena za porez i zdr. osiguranje, informacije klijenta, pregled PDF fajla, printanje ili proslijeđivanje istog itd. Također na ovom ekranu korisnik može izbrisati neki od dodanih dohodaka.*
+- *Arhiva je ekran koji korisniku omogućava potpuni pregled svih prihoda koji se dodaju putem aplikacije. Takođe, svaki prihod sadrži detaljan pregled koji omogućava korisniku da detaljno sagleda ukupan primljeni iznos, ukupan prihod sa odbitcima, sredstva izdvojena za poreze i zdr. osiguranje, informacije o klijentu, pregledavanje PDF fajla, printanje ili prosleđivanje, itd. Takođe na ovom ekranu korisnik može obrisati neke od dodatnih prihoda.*
 
 **PROFIL**
-- *Na ekranu profil, korisnik može pregledati svoje informacije (Ime, prezime, adresu stanovanja, matični broj, broj telefona) kako bi bio siguran da su generisani obrasci ispunjeni dobrim informacija. Također na istom mjestu, korisnik može urediti te informacije i globalno izbrisati sve dohotke ikad dodane kroz aplikaciju.*
+- *Na ekranu profila korisnik može vidjeti svoje podatke (ime, prezime, adresu stanovanja, matični broj, broj telefona) kako bi se uvjerio da su generirani obrasci popunjeni dobrim informacijama. Također na istom mjestu, korisnik može urediti ove informacije i globalno izbrisati sve prihode koji su ikada dodani putem aplikacije.*
 
 <br>
 
