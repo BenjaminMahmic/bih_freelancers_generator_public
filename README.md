@@ -1,3 +1,5 @@
+# [Click me to go to the app on the Google Play](https://play.google.com/store/apps/details?id=com.bih_freelancers_generator)
+
 ![bih_freelancers_preview_logo](https://user-images.githubusercontent.com/89051381/176686362-c27eec3c-9413-4cc7-9940-ed788270fcbe.png)
 
 
