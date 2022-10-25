@@ -3,6 +3,10 @@
 ![bih_freelancers_preview_logo](https://user-images.githubusercontent.com/89051381/176686362-c27eec3c-9413-4cc7-9940-ed788270fcbe.png)
 
 
+
+
+![v1 0 0](https://user-images.githubusercontent.com/89051381/197664015-7a587b9a-e951-4894-9593-d3eaf4afff8c.png)
+
 O APLIKACIJI
 ------------
 
