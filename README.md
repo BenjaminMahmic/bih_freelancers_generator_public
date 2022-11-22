@@ -56,3 +56,27 @@ Aplikacija je podijeljena u 5 dijelova kako bi sve bilo potpuno jasno i jednosta
 <br>
 
 ![bih_freelancers_generator_preview_2](https://user-images.githubusercontent.com/89051381/176697070-6d7a29d9-b893-4cc2-ad88-2026c191d278.png)
+
+
+![bih_freelancers_version](https://user-images.githubusercontent.com/89051381/203185629-8a97975a-22c1-41e6-9954-da0274848932.png)
+
+**NOVO**
+- *Tamna/Svijetla tema aplikacije, te mogučnost odabira teme automatski.*
+- *UI/UX poboljsanja.*
+- *Poboljsanje informisanja korisnika unutar aplikacije.*
+- *Poboljsanje preformansi aplikacije.*
+
+**PROBLEMI**
+- *Riješen problem pregledavanja fajla nakon dodavanja dohotka.*
+- *Riješen problem sa slanjem/proslijedjivanjem fajla nakon dodavanja dohotka.*
+
+![v1 2 2](https://user-images.githubusercontent.com/89051381/203186645-7ecf6cda-c515-4087-8b31-70738fd00664.png)
+
+
+
+
+
+
+
+
+
